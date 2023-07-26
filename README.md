@@ -18,6 +18,10 @@
 
 - [How to drop the ball in your life without letting anyone down (including you)](https://ideas.ted.com/how-to-drop-the-ball-in-your-life-without-letting-anyone-down-including-you/)
 
+# Software Design
+
+- [The Wet Codebase by Dan Abramov](https://www.youtube.com/watch?v=17KCHwOwgms)
+
 # Staff
 
 - https://staffeng.com/
